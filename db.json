@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "fuckyou"
+    },
+    {
+      "id":1,
+      "username": "yeezus"
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
