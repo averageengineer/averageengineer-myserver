@@ -2,8 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "username": "yeezus",
+      "password": "praisegod"
+    },
+    {
+      "id": 2,
+      "username": "3661",
+      "password": "ufo"
   ],
   "profile": {
     "name": "typicode"
