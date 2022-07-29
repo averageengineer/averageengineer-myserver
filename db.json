@@ -1,12 +1,8 @@
 {
   "posts": [
     {
-      "username": "fuckyou",
-      "password": "pacman"
-    },
-    {
-      "username": "yeezus",
-      "password": "nogmaalspacman"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
