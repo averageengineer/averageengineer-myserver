@@ -1,12 +1,12 @@
 {
   "posts": [
     {
-      "id": 1,
-      "username": "fuckyou"
+      "username": "fuckyou",
+      "password": "pacman",
     },
     {
-      "id":1,
-      "username": "yeezus"
+      "username": "yeezus",
+      "password": "nogmaalspacman",
     }
   ],
   "profile": {
