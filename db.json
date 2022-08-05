@@ -1,17 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "username": "yeezus",
-      "password": "praisegod"
-    },
-    {
-      "id": 2,
-      "username": "3661",
-      "password": "ufo"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+  "username": 'yeezus',
+  "password": 'mygod'
   }
 }
